@@ -1,0 +1,5 @@
+@use "vars" as v;
+body {
+  background-color: v.$primary-bg-color;
+  font-family: "Inter", sans-serif;
+}
